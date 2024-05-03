@@ -1,0 +1,1 @@
+This is the maze generator/solver. Guided project 3 from boot.dev. It works.
